@@ -1,5 +1,4 @@
-# Example tutorials for running distributed jobs in Cyfronet SLURM cluster <br>
-# using torch library. <br>
+# Example tutorials for running distributed jobs in Cyfronet SLURM cluster using torch library. <br>
 
 To run the code, simply copy the files and create the proper directories <br>
 on the cluster (including dataset and environment). <br>
