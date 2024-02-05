@@ -5,8 +5,8 @@ on the cluster (including dataset and environment). <br>
 Then, submit the job using the following command: <br>
 ```bash
 sbatch meetween_example_multinode.sh
-``` <br>
-for the multinode example, or <br>
+``` 
+for the multinode example, or
 ```bash
 sbatch meetween_example_single_node.sh
-``` <br>
+``` 
