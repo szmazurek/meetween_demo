@@ -10,3 +10,4 @@ for the multinode example, or
 ```bash
 sbatch meetween_example_single_node.sh
 ``` 
+for the single node.
